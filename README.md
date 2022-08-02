@@ -4,6 +4,12 @@ Homework which requires you to make a backend service for an e-commerce applicat
 
 - First update the .env file with your db info
 
+- Install the dependancies
+
+```sh
+npm install
+```
+
 - Seed the database with
 
 ```sh
